@@ -1,0 +1,16 @@
+- Sprint 06 (Front)
+    - Angular CLI
+    - Ciclo de vida da API
+    - Componentes
+    - Data Binding
+    - Diretivas
+    - Modulos
+    - Rotas
+    - Proteção de Rotas
+    - @Input
+    - @Output
+    - Pipes
+    - Eventos
+    - Operador de Navegação Segura
+    - Formulários
+    - Angular Material

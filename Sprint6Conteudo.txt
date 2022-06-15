@@ -1,0 +1,36 @@
+Sprint 06 (Front)
+-Angular - Framework de aplicaçoes web de front-end baseado em TypeScript 
+*Angular CLI - Ferramenta de linha de comando para aplicaçoes em angular
+
+*Ciclo de vida da API - é uma  parte gestão de api que é responsavel pelo design, desenvolvimento e manutenção de api.
+    -planning and design
+    -development
+    -testing
+    -deployment and use
+    -retirement
+
+*Componentes - é um tipo de classe de uma aplicação angular.
+
+*Data Binding - 
+
+*Diretivas - 
+
+*Modulos - 
+
+*Rotas - 
+
+*Proteção de Rotas - 
+
+*@Input - 
+
+*@Output - 
+ 
+*Pipes - 
+
+*Eventos - 
+
+*Operador de Navegação Segura - 
+
+*Formulários - 
+
+*Angular Material - lib de componentes para interface 
